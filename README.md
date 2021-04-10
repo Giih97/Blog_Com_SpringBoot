@@ -22,4 +22,4 @@ Esse projeto foi desenvolvido com :
   - [Gerenciador Maven]()
   - [Spring Boot](https://start.spring.io/)
   - [Summernote](https://summernote.org/)
-  - [Boostrap](https://getbootstrap.com/)
+  - [Bootstrap](https://getbootstrap.com/)
